@@ -1,0 +1,1 @@
+../../../UE_Class/UE_Class.uproject  /Game/New -Messaging -SessionId=19875D4743A1E15DDE9DF7A9B26D9E91 -SessionOwner="pc" -SessionName="Launch On Device" -iterative
